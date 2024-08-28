@@ -16,11 +16,11 @@ function Login() {
       password: data.password,
     };
     await axios
-      .post("http://localhost:4001/user/login", userInfo)
+      .post("http://localhost:4002/user/login", userInfo)
       .then((res) => {
         console.log(res.data);
         if (res.data) {
-          toast.success("Loggedin Successfully");
+          toast.success("Login Successfull");
           document.getElementById("my_modal_3").close();
           setTimeout(() => {
             window.location.reload();

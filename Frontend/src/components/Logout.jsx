@@ -11,7 +11,7 @@ function Logout() {
         user: null,
       });
       localStorage.removeItem("Users");
-      toast.success("Logout successfully");
+      toast.success("Logout successfull");
 
       setTimeout(() => {
         window.location.reload();
