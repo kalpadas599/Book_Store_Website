@@ -1,12 +1,12 @@
 # Bookstore Website
 
-First split your terminal into two parts:
+### First split your terminal into two parts:
 
 To go Frontend directory: type-```cd Frontend```
 
 To go Backend directory: type-```cd Backend```
 
-## Step 1: Available Scripts[Frontend]
+## Step 1: within [Frontend]
 In the project directory, you can run:
 
 ### `npm install`
@@ -32,6 +32,8 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 -The End-
+
+# You can also learn
 
 ### `npm test`
 
