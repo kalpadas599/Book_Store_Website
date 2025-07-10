@@ -1,5 +1,5 @@
 # Bookstore Website
-
+## How to set up on your own system-
 ### First split your terminal into two parts:
 
 To go Frontend directory: type-```cd Frontend```
